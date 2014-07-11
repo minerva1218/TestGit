@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AlarmApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title">設定鬧鐘</string>
+    <string name="show">您設定的時間是:</string>
+    <string name="showTime"></string>
+    <string name="btnOK">確定</string>
+    <string name="txv1">重複響起的時間</string>
+    <string name="textview1">重複響起間隔</string>
+    <string name="sec">秒</string>
+    <string name="mEdit"></string>
+    <string name="gTimes">3</string>
+    <string name="times">次</string>
+    <string name="btn_back">返回</string>
+    <string name="settimeT">設定鬧鐘</string>
+    <string name="tt">點擊按鈕開始遊戲</string>
+
+</resources>
